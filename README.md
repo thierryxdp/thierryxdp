@@ -1,16 +1,21 @@
-## Hi there 👋
+## Hey there 👋
 
-<!--
-**thierryxdp/thierryxdp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Thierry, a FullStack Software Enginner with double nationality: Brazilian/Swiss.
 
-Here are some ideas to get you started:
+I've always worked as a FullStack Developer, mostly using C# .NET, React and Typescript.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I also have experience with other Javascript Frontend Frameworks, as well as Python and NodeJs for backend.
+
+In this github profile i have my personal projects, all work related projects are not here.
+
+---
+## 🚀 Tools & Tech
+- React, Typescript, C# .NET
+- Sql Server, PostGreSql, MySql
+- Solid Experience in Banking/Finance Sector
+
+---
+## 🐾 A Bit About Me
+- I love cats
+- Into sports, mostly playing VolleyBall and Soccer
+- I have a twin brother who is also a Developer
